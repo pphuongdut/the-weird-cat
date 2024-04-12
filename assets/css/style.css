@@ -38,3 +38,7 @@
 .flip-image {
     transform: scaleX(-1);
 }
+
+.text-blue {
+    color: #00b7fe;
+}
